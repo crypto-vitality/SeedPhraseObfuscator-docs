@@ -3,6 +3,11 @@ description: Tools for obfuscating seed phrases securely on-device.
 theme: jekyll-theme-minimal
 logo: /assets/logo.png
 show_downloads: false
-
+include:
+  - assets
+# Ensure CSS is included
+sass:
+  style: compressed
+    
 # Optional: Add navigation links
 # GitHub Pages does not support menus natively, so links are embedded manually in Markdown.
