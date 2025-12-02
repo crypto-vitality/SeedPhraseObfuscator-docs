@@ -1,6 +1,6 @@
-\# Privacy Policy
+# Privacy Policy
 
-\_Last updated: {{MONTH YEAR}}\_
+_Last updated: {{MONTH YEAR}}_
 
 
 
@@ -12,11 +12,11 @@ This Privacy Policy describes how the Seed Obfuscation App (“the App”, “we
 
 
 
-\## 📘 Navigation
+## 📘 Navigation
 
-\- \[Home](index.md)
+- [Home](index.md)
 
-\- \[Terms of Service](terms-of-service.md)
+- [Terms of Service](terms-of-service.md)
 
 
 
@@ -24,31 +24,31 @@ This Privacy Policy describes how the Seed Obfuscation App (“the App”, “we
 
 
 
-\## 1. Data We Do Not Collect
+## 1. Data We Do Not Collect
 
-The App does \*\*not\*\*:
+The App does **not**:
 
-\- Collect, store, or transmit your seed phrases or obfuscated phrases.
+- Collect, store, or transmit your seed phrases or obfuscated phrases.
 
-\- Collect personally identifiable information.
+- Collect personally identifiable information.
 
-\- Track user behavior.
-
-
-
-All processing happens \*\*locally\*\* on your device.
+- Track user behavior.
 
 
 
-\## 2. Information We May Collect
+All processing happens **locally** on your device.
+
+
+
+## 2. Information We May Collect
 
 Minimal diagnostic data may be collected by Google Play or Apple:
 
-\- App version  
+- App version  
 
-\- Device type and OS version  
+- Device type and OS version  
 
-\- Crash logs  
+- Crash logs  
 
 
 
@@ -56,15 +56,15 @@ All such data is anonymous.
 
 
 
-\## 3. Use of Information
+## 3. Use of Information
 
 Diagnostic data is used only to:
 
-\- Improve app stability  
+- Improve app stability  
 
-\- Diagnose crashes  
+- Diagnose crashes  
 
-\- Ensure device compatibility  
+- Ensure device compatibility  
 
 
 
@@ -72,7 +72,7 @@ We do not use it for analytics or marketing.
 
 
 
-\## 4. Third-Party Services
+## 4. Third-Party Services
 
 The App does not use ads, trackers, or analytics libraries.
 
@@ -80,13 +80,13 @@ The App does not use ads, trackers, or analytics libraries.
 
 Platform-level crash reporting may apply:
 
-\- Google Play: https://policies.google.com/privacy  
+- Google Play: https://policies.google.com/privacy  
 
-\- Apple: https://www.apple.com/legal/privacy/
+- Apple: https://www.apple.com/legal/privacy/
 
 
 
-\## 5. Security
+## 5. Security
 
 We do not store any user data.  
 
@@ -94,23 +94,23 @@ You are responsible for securing your device, seed phrases, and exported files.
 
 
 
-\## 6. Children’s Privacy
+## 6. Children’s Privacy
 
 Not intended for children under 13.
 
 
 
-\## 7. Changes
+## 7. Changes
 
 We may update this policy periodically.
 
 
 
-\## 8. Contact Us
+## 8. Contact Us
 
-\*\*Email:\*\* your-support@email  
+**Email:** your-support@email  
 
-\*\*Website:\*\* https://yourusername.github.io/your-repo
+**Website:** https://yourusername.github.io/your-repo
 
 
 

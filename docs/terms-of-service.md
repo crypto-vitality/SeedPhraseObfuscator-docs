@@ -1,6 +1,6 @@
-\# Terms of Service
+# Terms of Service
 
-\_Last updated: {{MONTH YEAR}}\_
+_Last updated: {{MONTH YEAR}}_
 
 
 
@@ -14,11 +14,11 @@ By using the App, you agree to these Terms.
 
 
 
-\## 📘 Navigation
+## 📘 Navigation
 
-\- \[Home](index.md)
+- [Home](index.md)
 
-\- \[Privacy Policy](privacy-policy.md)
+- [Privacy Policy](privacy-policy.md)
 
 
 
@@ -26,15 +26,15 @@ By using the App, you agree to these Terms.
 
 
 
-\## 1. Use of the App
+## 1. Use of the App
 
 You may use the App for:
 
-\- Personal organization  
+- Personal organization  
 
-\- Educational purposes  
+- Educational purposes  
 
-\- Experimentation with obfuscation methods  
+- Experimentation with obfuscation methods  
 
 
 
@@ -42,33 +42,33 @@ Do not use the App for illegal purposes.
 
 
 
-\## 2. No Warranty
+## 2. No Warranty
 
-The App is provided \*\*“as is.”\*\*  
+The App is provided **“as is.”**  
 
 We make no guarantees regarding:
 
-\- Accuracy of output  
+- Accuracy of output  
 
-\- Security of obfuscated phrases  
+- Security of obfuscated phrases  
 
-\- Recoverability  
+- Recoverability  
 
-\- Compatibility with wallets  
+- Compatibility with wallets  
 
 
 
-\## 3. No Liability
+## 3. No Liability
 
-We are \*\*not liable\*\* for:
+We are **not liable** for:
 
-\- Loss of funds or digital assets  
+- Loss of funds or digital assets  
 
-\- Misuse of obfuscated outputs  
+- Misuse of obfuscated outputs  
 
-\- Device compromise  
+- Device compromise  
 
-\- Data loss  
+- Data loss  
 
 
 
@@ -76,7 +76,7 @@ You assume full responsibility for storing your seed phrases.
 
 
 
-\## 4. Intellectual Property
+## 4. Intellectual Property
 
 App algorithms (excluding open-source parts) are protected by applicable laws.
 
@@ -84,21 +84,21 @@ App algorithms (excluding open-source parts) are protected by applicable laws.
 
 You may not:
 
-\- Reverse-engineer the App  
+- Reverse-engineer the App  
 
-\- Redistribute commercially  
+- Redistribute commercially  
 
-\- Modify protected parts  
+- Modify protected parts  
 
 
 
-\## 5. Pro Features
+## 5. Pro Features
 
 Paid subscriptions or one-time purchases unlock:
 
-\- Keyed algorithms  
+- Keyed algorithms  
 
-\- Additional advanced obfuscation options  
+- Additional advanced obfuscation options  
 
 
 
@@ -106,29 +106,29 @@ Billing is handled by Google Play / App Store.
 
 
 
-\## 6. Updates
+## 6. Updates
 
 We may modify or remove features without notice.
 
 
 
-\## 7. Termination
+## 7. Termination
 
 Access may be restricted if you violate these Terms.
 
 
 
-\## 8. Governing Law
+## 8. Governing Law
 
 &nbsp;governed by local law unless platform policy requires otherwise.
 
 
 
-\## 9. Contact
+## 9. Contact
 
-\*\*Email:\*\* your-support@email  
+**Email:** your-support@email  
 
-\*\*Website:\*\* https://yourusername.github.io/your-repo
+**Website:** https://yourusername.github.io/your-repo
 
 
 
