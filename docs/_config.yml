@@ -1,0 +1,8 @@
+title: Seed Obfuscation App
+description: Tools for obfuscating seed phrases securely on-device.
+theme: jekyll-theme-minimal
+logo: /assets/logo.png
+show_downloads: false
+
+# Optional: Add navigation links
+# GitHub Pages does not support menus natively, so links are embedded manually in Markdown.
