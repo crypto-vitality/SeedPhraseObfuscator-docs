@@ -5,11 +5,15 @@ logo: /assets/logo.png
 show_downloads: false
 include:
   - assets
+  - assets/css/custom.css
   - favicon.ico
   - _includes
 # Ensure CSS is included
 sass:
   style: compressed
+
+extra_css:
+  - /assets/css/custom.css
 
 # Optional: Add navigation links
 # GitHub Pages does not support menus natively, so links are embedded manually in Markdown.
